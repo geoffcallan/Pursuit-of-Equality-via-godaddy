@@ -1,0 +1,184 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.85), rgba(255,255,255,0.85)), url('images/PursuitofEqualityGavinNewsomeheaderimage.png');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1371px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 205px;
+  height: auto;
+  width: 855px;
+  margin: 141px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 2px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.875rem;
+  font-family: "Anek Latin";
+  text-decoration: none solid rgb(249, 187, 0);
+  width: 490px;
+  font-weight: 700;
+  margin: 54px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 4.5rem;
+  font-family: "STIX Two Text";
+  font-weight: normal;
+  margin: 0;
+}
+
+.u-section-1 .u-video-1 {
+  height: 524px;
+  width: 938px;
+  margin: 0 101px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 3rem;
+  font-family: "STIX Two Text";
+  font-weight: normal;
+  text-transform: none;
+  margin: 24px 0 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 957px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 165px;
+    width: 760px;
+    margin-top: 51px;
+    height: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    margin-top: 36px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    width: auto;
+  }
+
+  .u-section-1 .u-video-1 {
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 18px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 835px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 140px;
+    width: 586px;
+    margin-top: 75px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 402px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 754px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 102px;
+    width: 403px;
+    margin-top: 114px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 2px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+    width: 403px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 302px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 632px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 104px;
+    margin-top: 112px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 268px;
+  }
+
+  .u-section-1 .u-video-1 {
+    height: 190px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
